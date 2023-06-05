@@ -1,0 +1,100 @@
+OQ
+Question #1. Template is generic way to make overloaded functions
+1. True
+2. False
+xxx
+1
+OQ
+Question #2. Which operation is used as Logical 'AND'
+1. Operator-&
+2. Operator-||
+3. Operator-&&
+4. Operator +
+xxx
+3
+OQ
+Question #3. Which of the following operator use to access members (fields) of structure.
+1. ; (Semicolon)
+2. . (Dot)
+3. : (colon)
+4. , (coma)
+xxx
+2
+OQ
+Question #4. Which of the following is the correct way of declaring a three dimensional array (2x3x4 dimensions)
+1. int array[[3][4]]
+2. int array[2, 3, 4]
+3. int array[2][3][4]
+4. int array[2,3][4]
+xxx
+3
+OQ
+Question #5: What is it?
+1) a 
+2) b 
+xxx
+1
+OQ
+Question #6. A pointer pointing to a variable that is not initialized is called
+1. Void Pointer
+2. Null Pointer
+3. Empty Pointer
+4. Wild Pointer
+xxx
+2
+OQ
+Question #7. char str[ ]=”TASHKENT”; cout<<strlen(str);
+1. 7
+2. 8
+3. 9
+4. Infinite 
+xxx
+2
+EQ
+Question #8. The expression 4+6/3*2-2+7%3 evaluates to
+7
+OQ
+Question #9: What is your name?
+1) qwerty 
+2) asdfg 
+xxx
+3
+OQ
+Question #10: Where are you from?
+1) qwqw 
+2) qdqedf 
+xxx
+1
+EQ
+Question #11: qweqw qr
+1
+OQ
+Question #12. In call by reference parameter passing
+1. Function cannot directly access original parameter data
+2. Original parameter data cannot be modified by the called function
+3. Function can directly access original parameter data
+4. None of these
+xxx
+3
+OQ
+Question #13. Scope of a Global variable is
+1. Function Scope
+2. Main Scope
+3. Function prototype Scope
+4. File Scope
+xxx
+4
+OQ
+Question #14. Operators have precedence. A Precedence determines which operator is
+1. faster
+2. takes less memory
+3. evaluated first
+4. takes no arguments
+xxx
+3
+OQ
+Question #15. Template is generic way to make overloaded functions
+1. True
+2. False
+xxx
+1

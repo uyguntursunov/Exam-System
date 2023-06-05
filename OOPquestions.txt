@@ -1,0 +1,172 @@
+OQ
+When we pass two-dimensional array parameters to function, Size of first dimension of array is not required but Size of second dimension is required.
+True
+False
+xxx
+1
+OQ
+Which of following Reduce function-call overhead
+Inline function
+Function overloading
+Recursive function
+xxx
+1
+EQ
+The expression 4+6/3*2-2+7%3 evaluates to
+7
+OQ
+Which one of following convenient for situations in which the “same” function is needed for different numbers or types of arguments
+Inline function
+Function overloading
+Recursive function
+Default argument
+xxx
+2
+OQ
+Template is generic way to make overloaded functions
+True
+False
+xxx
+1
+OQ
+Name of an array is
+A constant pointer
+Address of the first element of array
+A non-constant pointer
+Both 1 and 2
+xxx
+4
+OQ
+Life time of an automatic storage class is the execution time of local function in which it is declared.
+True
+False
+xxx
+1
+OQ
+Register variable is good for often-used items (loop counters)
+True
+False
+xxx
+1
+OQ
+Scope of a Global variable is
+Function Scope
+Main Scope
+Function prototype Scope
+File Scope
+xxx
+4
+OQ
+Both Static variable and Static arrays are initialized to 0 by default
+True
+False
+xxx
+1
+OQ
+In call by value parameter passing
+Pointers to data (argument’s value) is passed to the called function
+Copy of data (argument’s value) is passed to the called function
+Reference to data (argument’s value) is passed to the called function
+None of these
+xxx
+2
+OQ
+In call by reference parameter passing
+Function cannot directly access original parameter data
+Original parameter data cannot be modified by the called function
+Function can directly access original parameter data
+None of these
+xxx
+3
+OQ
+Which of the following operator use to access members (fields) of structure.
+; (Semicolon)
+. (Dot)
+: (colon)
+, (coma)
+xxx
+2
+OQ
+char str[ ]=”TASHKENT”; cout<<strlen(str);
+7
+8
+9
+Infinite 
+xxx
+2
+OQ
+Structure is heterogeneous (It can be composed of data of different types).
+True
+False
+xxx
+1
+EQ
+If a is an integer variable a=5/2 will return a value(enter your answer)
+2
+OQ
+Which of the following is the correct way of declaring a three dimensional array (2x3x4 dimensions)
+int array[[3][4]]
+int array[2, 3, 4]
+int array[2][3][4]
+int array[2,3][4]
+xxx
+3
+OQ
+Which one is not a correct variable type in C++?
+float
+Real
+Int
+Double
+xxx
+2
+OQ
+Which operation is used as Logical 'AND'
+Operator-&
+Operator-||
+Operator-&&
+Operator +
+xxx
+3
+OQ
+A pointer pointing to a variable that is not initialized is called
+Void Pointer
+Null Pointer
+Empty Pointer
+Wild Pointer
+xxx
+2
+OQ
+Operators have precedence. A Precedence determines which operator is
+faster
+takes less memory
+evaluated first
+takes no arguments
+xxx
+3
+EQ
+Value of a after evaluating Expression a = 7 / 22 * (3.14 + 2) * 3 / 5;in C++ is
+0
+OQ
+Maximum number of elements in the array declaration int a[5][8] is
+28
+32
+35
+40 
+xxx
+4
+OQ
+What is the work of break keyword?
+Halt execution of program
+Restart execution of program
+Exit from loop or switch statement
+None of the above
+xxx
+3
+OQ
+x–= y+1; What does these means?
+x=x–y+1
+x = x – y – 1
+x =–x+y+1
+x =x–y–1
+xxx
+4
